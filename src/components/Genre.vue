@@ -1,5 +1,5 @@
 <script setup>
-import movieCard from "./MovieCard.vue";
+import movieCard from "./movieCard.vue";
 
 const props = defineProps({
   genre: {
